@@ -1,0 +1,2 @@
+# OMA
+Open Moral Agent
